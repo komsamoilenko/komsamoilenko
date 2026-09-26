@@ -15,9 +15,9 @@ I administer Jira, Confluence and Jira Service Management in a regulated fintech
 
 ## Selected work
 
-**[council](https://github.com/komsamoilenko/council)**: a local MCP server that lets the AI assistant you are working with consult another vendor's assistant (Claude Code, Codex or the Gemini API) under your own accounts. Consultations run as durable background jobs, and a local ledger records what each one cost. Windows is the implemented platform; MIT licence; releases ship with SHA-256 checksums.
-
 **Restricted-issue helper for Jira Data Center** (publication in preparation): a ScriptRunner web panel that replaces Jira's "You can't view this issue" dead end with a useful card. It tells the person what to ask for and whom to ask, with a ready-to-send message, and decides first whether saying any of that is safe for that person, because on some issues the level name and the people are themselves the confidential part. The client script ships without comments, after two of them once carried a real name into browsers; the build step that strips them is part of the release.
+
+**council**: a local MCP server that lets the AI assistant you are working with consult another vendor's assistant under your own accounts, with a ledger of what each consultation cost. Its repository is being republished with a clean history and will be linked here when it is back.
 
 ## How I work
 
@@ -35,4 +35,4 @@ I write on LinkedIn about real Jira administration work: ScriptRunner solutions,
 
 ## Contact
 
-The best way to reach me is [LinkedIn](https://www.linkedin.com/in/komsamoilenko/). For council, please open an issue in the [repository](https://github.com/komsamoilenko/council/issues).
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/komsamoilenko/).
