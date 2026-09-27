@@ -1,10 +1,10 @@
 # Denis Samoilenko
 
-**Jira and Confluence administrator and automation engineer: ScriptRunner, Automation for Jira and Jira Service Management on Data Center and Cloud, plus a self-hosted product analytics platform and the AI-assisted tooling that keeps both understandable and safe to change.**
+**Internal tools product ownership. I decide what changes in Jira Data Center and Cloud, Jira Service Management and Confluence, build it with ScriptRunner and Automation for Jira, and run a self-hosted product analytics platform. AI-assisted tooling keeps all of it understandable and safe to change.**
 
 ## What I work on
 
-I administer Jira, Confluence and Jira Service Management in a regulated fintech environment, own the company's self-hosted product analytics platform, and build the tooling that keeps large instances understandable and safe to change.
+In a regulated environment, I work with internal teams to understand what they need, decide the scope and priority of changes, and take them through delivery and adoption. The platforms are Jira, Confluence and Jira Service Management plus a self-hosted product analytics platform; the rest of this page is the engineering behind it.
 
 - **Jira administration on Data Center and Cloud:** workflows, permission and issue security schemes, custom fields and their contexts, project standards.
 - **ScriptRunner (Groovy):** validators, conditions and post-functions, listeners, scheduled jobs, UI fragments, and read-only probes against the object model and the database.
@@ -33,7 +33,7 @@ I administer Jira, Confluence and Jira Service Management in a regulated fintech
 
 ## Writing
 
-I write on LinkedIn about real administration work: ScriptRunner solutions, configuration forensics, governance clean-ups, running a product analytics platform, and where AI tooling earns its place in an administrator's day. Read the posts on [LinkedIn](https://www.linkedin.com/in/komsamoilenko/).
+I write on LinkedIn about internal tools work: ScriptRunner solutions, configuration forensics, governance clean-ups, running a product analytics platform, and where AI tooling earns its place in the day-to-day. Read the posts on [LinkedIn](https://www.linkedin.com/in/komsamoilenko/).
 
 ## Contact
 
